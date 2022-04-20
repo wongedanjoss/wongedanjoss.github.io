@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://wongedanjoss.github.io/sitemap.xml

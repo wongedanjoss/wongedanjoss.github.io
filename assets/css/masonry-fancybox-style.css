@@ -1,0 +1,91 @@
+.container {
+    width: 98%;
+  }
+  
+  .logo {
+    border-radius: 50%;
+  }
+  
+  .text-muted a {
+    color: #989898;
+  }
+  
+  .text-muted a:hover {
+    color: grey;
+  }
+  
+  .fa a:active, a:hover, a:visited {
+    text-decoration: none;
+  }
+  
+  /* Tool Colors */
+  .general {
+    background-color: #0095af;
+  }
+  
+  .general .card-title {
+    color: #f3f3f3;
+  }
+  
+  .general .card-text {
+    color: #f3f3f3;
+  }
+  
+  .card-pin {
+    display: block;
+    width: 100%;
+    height: auto;
+    background-color: gray;
+  }
+  
+  .card-pin:hover {
+    opacity: .9;
+    border: 5px solid #f3f3f3;
+    transition: ease .5s;
+    background-color: #ffffff;
+  }
+
+  .card-title a, .card-text a, .card-text{
+    color: #ffffff;
+  }
+
+  .card-description{
+    color: #000000;
+  }
+  .card-title, .card-text{
+    height: 20px; 
+    overflow: hidden;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+
+  .card-title{
+    font-weight: bold;
+  }
+
+  .card-text{
+    margin-top: -10px;
+  }
+
+  figure div{
+    padding: 20px;
+  }
+
+  .card-pin:hover .card-title a, .card-pin:hover .card-text a, .card-pin:hover .card-text {
+    color: #000000;
+  }
+
+
+  .suggest{
+    background-color: gray;
+    color: white;
+    border-radius: 10px;
+    padding: 0 10px 3px 10px;
+    white-space: nowrap;
+  }
+  
+  .suggest:hover{
+    color: white;
+    text-decoration: none;
+    background-color: black;
+  }
